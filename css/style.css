@@ -220,7 +220,6 @@ first div in the grid  and place it in the grid. */
   nav{
     justify-items: right;
     padding: 30px 0px 30px 0px;
-    text-align: '-webkit-auto';
     }
    
   .container {
