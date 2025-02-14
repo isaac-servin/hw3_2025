@@ -49,7 +49,6 @@ border-radius: 0;
 
   /* Add styles for .overview in mobile view */
   .overview {
-    height: auto; /* Adjust height for mobile view */
     width: 100%; /* Ensure it takes full width */
   }
 
